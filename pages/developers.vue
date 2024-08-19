@@ -25,6 +25,16 @@
 				Участник команды OVERLOAD, занимается разработкой в сфере машинного обучения и анализом данных.
 			</DeveloperDescriptionText>
 		</DeveloperSection>
+		<DeveloperSection img-src="alex.jpg">
+        			<DeveloperNameText>Степанов Александр</DeveloperNameText>
+        			<DeveloperDescriptionText>Возраст: 18 лет</DeveloperDescriptionText>
+        			<DeveloperDescriptionText>
+        				Учится в Санкт-Петербургском государственном университете аэрокосмического приборостроения
+        			</DeveloperDescriptionText>
+        			<DeveloperDescriptionText>
+        				Участник команды разработчиков OVERLOAD, занимается разработкой моделей машинного обучения с их дальнейшим тестированием и оптимизацией.
+        			</DeveloperDescriptionText>
+        		</DeveloperSection>
 	</div>
 </template>
 
